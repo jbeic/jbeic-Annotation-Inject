@@ -58,12 +58,9 @@
 <span style="mso-spacerun:'yes'; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-weight:normal; font-size:12.0000pt; mso-font-kerning:1.0000pt; " >(2)</span>
 <span style="mso-spacerun:'yes'; font-family:宋体; mso-ascii-font-family:'Times New Roman'; mso-hansi-font-family:'Times New Roman'; font-weight:normal; font-size:12.0000pt; mso-font-kerning:1.0000pt; " >&nbsp;</span>
 <span style="mso-spacerun:'yes'; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-weight:normal; font-size:12.0000pt; mso-font-kerning:1.0000pt; " >方便做单元测试。</span>
-<span style="mso-spacerun:'yes'; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-weight:normal; font-size:12.0000pt; mso-font-kerning:1.0000pt; " >
-
-</span>
 </p>
 <p class=MsoNormal  style="margin-top:0.0000pt; margin-right:0.0000pt; margin-bottom:0.0000pt; margin-left:0.0000pt; mso-para-margin-top:0.0000gd; mso-para-margin-right:0.0000gd; mso-para-margin-bottom:0.0000gd; mso-para-margin-left:0.0000gd; text-indent:24.0000pt; mso-char-indent-count:2.0000; text-autospace:ideograph-numeric; page-break-after:avoid; mso-pagination:widow-orphan lines-together; text-align:left; line-height:20.0000pt; mso-line-height-rule:exactly; " >
-<span style="mso-spacerun:'yes'; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-weight:normal; font-size:12.0000pt; mso-font-kerning:1.0000pt; " >&nbsp;&nbsp;(3)&nbsp;</span>
+<span style="mso-spacerun:'yes'; font-family:'Times New Roman'; mso-fareast-font-family:宋体; font-weight:normal; font-size:12.0000pt; mso-font-kerning:1.0000pt; " >(3)&nbsp;</span>
 <span style="mso-spacerun:'yes'; font-family:宋体; mso-ascii-font-family:'Times New Roman'; mso-hansi-font-family:'Times New Roman'; font-weight:normal; font-size:12.0000pt; mso-font-kerning:1.0000pt; " >依赖的类无需实现对依赖的类实例化（不需要构造函数和公有方法对依赖的类注入对象）。</span>
 <span style="mso-spacerun:'yes'; font-family:宋体; mso-ascii-font-family:'Times New Roman'; mso-hansi-font-family:'Times New Roman'; font-weight:normal; font-size:12.0000pt; mso-font-kerning:1.0000pt; " >
 
