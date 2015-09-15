@@ -21,7 +21,7 @@ public class Pen {
 
 	@Override
 	public String toString() {
-		return "People:" + nameString;
+		return "Pen:" + nameString;
 
 	}
 
